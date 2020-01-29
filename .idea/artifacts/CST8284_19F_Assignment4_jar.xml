@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="CST8284_19F_Assignment4:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/CST8284_19F_Assignment4_jar</output-path>
+    <root id="archive" name="CST8284_19F_Assignment4.jar">
+      <element id="module-output" name="CST8284_19F_Assignment4" />
+    </root>
+  </artifact>
+</component>

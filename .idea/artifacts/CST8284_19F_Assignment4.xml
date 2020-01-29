@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="javafx" name="CST8284_19F_Assignment4">
+    <output-path>$PROJECT_DIR$/out/artifacts/CST8284_19F_Assignment4</output-path>
+    <root id="root">
+      <element id="archive" name="CST8284_19F_Assignment4.jar">
+        <element id="module-output" name="CST8284_19F_Assignment4" />
+      </element>
+    </root>
+  </artifact>
+</component>
